@@ -17,8 +17,8 @@
       <p>Call me anything, idm! I will mostly respond to Jayce or Geo.</p>
       <p>I'm 18, and would prefer if minors interact cautiously with me.</p>
       <p>I love kisses/boops/crowns, whatever! Ask before cuddling.</p>
-      <p>I get gifted skins often so please don't copy them.</p>
-      <p>Always with friends in the Safe Server #1 Bakery.</p>
+      <p>Please do not copy gifted skins. Ask before taking inspo!</p>
+      <p>Always with friends in the Safe Server #1 Bakery or outside.</p>
       <p></p>
     </td>
   </tr>
@@ -104,8 +104,8 @@ ________________________________________________________________________________
       <p>I really love Jayce from League & Arcane. I'm not a kin tho!</p>
       <p>^Idc for shipping / ship cuds as long as it isn't forced on me.^</p>
       <p>My favorite bands are System of A Down and Linkin Park.</p>
-      <p>I like geeking out about random things. Especially media.</p>
-      <p>I'm really not that interesting of a person sorry...</p>
+      <p>I'm Asexual. I like rocks? I can play trumpet. I like orange juice.</p>
+      <p>I like yapping but I'm not that interesting of a person, honestly.</p>
       <br>
     </td>
   </tr>
