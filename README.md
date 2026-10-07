@@ -105,7 +105,7 @@ ________________________________________________________________________________
       <p>^Idc for shipping / ship cuds as long as it isn't forced on me.^</p>
       <p>My favorite bands are System of A Down and Linkin Park.</p>
       <p>I'm Asexual. I like rocks? I can play trumpet. I like orange juice.</p>
-      <p>I like yapping but I'm not that interesting of a person, honestly.</p>
+      <p>I like yapping but I'm not that interesting of a person.</p>
       <br>
     </td>
   </tr>
