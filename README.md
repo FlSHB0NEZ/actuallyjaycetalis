@@ -1,4 +1,4 @@
-<p align="center">୨୧ ⏔⏔⏔ changing entire gh theme & username soon ♡ ⏔⏔⏔ ୨୧</p>
+<p align="center">୨୧ ⏔⏔⏔ Previous Github & Previous Username! ♡ ⏔⏔⏔ ୨୧</p>
 
 </div>
 
@@ -14,7 +14,7 @@
     <!-- Content/Text Column -->
     <td width="50%" valign="middle">
       <h3>· · ─ ·✶· ─ · · 𝗛𝗘𝗟𝗟𝗢! · · ─ ·✶· ─ · ·</h3>
-      <p>Call me anything, idm! I will mostly respond to Jayce or Geo.</p>
+      <p>Call me anything, idm! I will mostly respond to Geo.</p>
       <p>I'm 18, and would prefer if minors interact cautiously with me.</p>
       <p>I love kisses/boops/crowns, whatever! Ask before cuddling.</p>
       <p>Please do not copy gifted skins. Ask before taking inspo!</p>
@@ -101,7 +101,7 @@ ________________________________________________________________________________
     <!-- Content/Text Column -->
     <td width="50%" valign="middle">
       <h3>· · ─ ·✶· ─ · · 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘(?) · · ─ ·✶· ─ · · </h3>
-      <p>I really love Jayce from League & Arcane. I'm not a kin tho!</p>
+      <p>I like being called names of the characters I cosplay!</p>
       <p>^Idc for shipping / ship cuds as long as it isn't forced on me.^</p>
       <p>My favorite bands are System of A Down and Linkin Park.</p>
       <p>I'm Asexual. I like rocks? I can play trumpet. I like orange juice.</p>
